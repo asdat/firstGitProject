@@ -1,3 +1,4 @@
 # firstGitProject
 
-This is my third commit!
+This is my first commit!
+
